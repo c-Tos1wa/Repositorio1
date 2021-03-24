@@ -1,0 +1,1 @@
+Escrever algo no arquivo txt pra salva-lo.
